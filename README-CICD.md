@@ -33,7 +33,7 @@ The goal of this project is to demonstrate how a DevOps engineer:
 | CI/CD | Jenkins (Declarative Pipeline) |
 | Containerization | Docker (Multi-stage build) |
 | Base Image | eclipse-temurin |
-| Application Port | 8080 |
+| Application Port | 8081 |
 
 ---
 
